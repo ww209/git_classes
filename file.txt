@@ -1,0 +1,5 @@
+//this is file for version1
+this is a test
+whatever want to say....
+//for staged
+//after staged
